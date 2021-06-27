@@ -14,10 +14,10 @@ L1. Python fundamentals.
 +10. Python Strings
 +11. Python String Formatting
 +12. Python Booleans
-13. Python Operators
-14. Python If...Else
-15. Python While Loops
-16. Python For Loops
-17. Python Arrays
-18. Git
++13. Python Operators
++14. Python If...Else
++15. Python While Loops
++16. Python For Loops
++17. Python Arrays
++18. Git
 '''
